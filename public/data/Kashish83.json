@@ -1,1 +1,21 @@
+{
+  "name": "Kashish Wadhwa",
+  "bio": "Aspiring web developer passionate about building interactive and responsive websites.",
+  "location": "punjab,India",
+  "github": "https://github.com/Kashish83",
+  "linkedin": "linkedin.com/in/kashish-wadhwa-697704309",
+  "portfolio": "https://github.com/Kashish83",
+  "skills": ["HTML", "CSS", "JavaScript", "Java", "Nodejs"],
+  "leetcode": "https://leetcode.com/u/kashishcoder123/",
+  "gfg": "https://www.geeksforgeeks.org/user/kashishcoder83/"
+  "projects": [
+    {
+      "title": "Airbnb site",
+      "description": "A Airbnb site help people to plen their stay during vacation.",
+      ITS in making i will upload it on github as soon as possible.
+    }
+   
+  ]
+}
+
 
